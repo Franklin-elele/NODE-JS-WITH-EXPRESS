@@ -1,0 +1,38 @@
+[
+    {
+        "id": 2,
+        "name": "Expandables",
+        "releaseYear": 2008,
+        "duration": 80
+    },
+    {
+        "id": 3,
+        "name": "Intersteller",
+        "releaseYear": 2014,
+        "duration": 120
+    },
+    {
+        "id": 4,
+        "name": "Die Hard",
+        "releaseYear": 2008,
+        "duration": 90
+    },
+    {
+        "id": 5,
+        "name": "Good Doctor",
+        "releaseYear": 2024,
+        "duration": 50
+    },
+    {
+        "id": 6,
+        "name": "food",
+        "releaseYear": 2012,
+        "duration": 20
+    },
+    {
+        "id": 7,
+        "name": "Guns akimbo",
+        "releaseYear": 2021,
+        "duration": 10
+    }
+]
